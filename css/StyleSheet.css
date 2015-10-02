@@ -1,0 +1,22 @@
+﻿.v-middle{ vertical-align:middle;}
+.overflowHidden{overflow:hidden;}
+
+.sidemenu-list .selected {
+  color: #03a9f4 !important;
+}
+.sidemenu-list .md-button{
+    font-weight:bold !important;
+    color:#4a4a4a;
+}
+.nav-header{
+    text-align:center;
+    background-color:#106CC8;
+    color:#ffffff;
+}
+.profilePic{
+    width:160px;
+    text-align:center;
+    margin:0 auto;
+    border-radius:50%;
+    border:solid 1em #de3641;
+}
